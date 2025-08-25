@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            
+            "id": "1",
+            "image": "../../assets/images/download-1.jfif",
+            "price": "https://www",
+            "title": "Education",
+            "description": "Education Hour | voices of Youth"
+        },
+        {
+            
+            "id": "2",
+            "image": "../../assets/images/download-2.jfif",
+            "price": "https://www",
+            "title": "Education",
+            "description": "Education is our passport to the future, for tomorrow belongs to the people who prepare for it today."
+        },
+        {
+            
+            "id": "3",
+            "image": "../../assets/images/download-3.jfif",
+            "price": "https://www",
+            "title": "Amazing Educational Resources",
+            "description": "The best way to predict your future is to create it"
+        },
+        {
+            
+            "id": "4",
+            "image": "../../assets/images/download-4.jfif",
+            "price": "https://www",
+            "title": "Edu Quote",
+            "description": "Education is a right, not a privilege; it is an opportunity, not an entitlement."
+        },
+        {
+            
+            "id": "5",
+            "image": "../../assets/images/download-5.jfif",
+            "price": "https://www",
+            "title": "Eduline",
+            "description": "If you think education is expensive, try ignorance."
+        },
+        {
+            
+            "id": "6",
+            "image": "../../assets/images/download-6.jfif",
+            "price": "https://www",
+            "title": "Adrenaline",
+            "description": "The highest result of education is tolerance"
+        },
+        {
+            
+            "id": "7",
+            "image": "../../assets/images/download-7.jfif",
+            "price": "https://www",
+            "title": "Educational Technology",
+            "description": "Technology made large populations possible; large populations now make technology indispensable. - Joseph Krutch (Writer)"
+        },
+        {
+            
+            "id": "8",
+            "image": "../../assets/images/download-8.jfif",
+            "price": "https://www",
+            "title": "Technology Impact on Education",
+            "description": "Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family."
+        },
+        {
+            
+            "id": "9",
+            "image": "../../assets/images/download-9.jpg",
+            "price": "https://www",
+            "title": "Kids Learning Apps",
+            "description": "Hold fast to your dreams, for without them life is a broken winged bird that cannot fly."
+        }
+    ]
+}
