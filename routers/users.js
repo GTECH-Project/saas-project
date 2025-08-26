@@ -48,6 +48,7 @@ router.post('/', (req, res)=>{
     newUser.save().then(()=>{
         res.status(201).send(newUser)
     }).catch((err)=>{
+        console.log(err)
         res.status(400).json({success: false})
     })
     
